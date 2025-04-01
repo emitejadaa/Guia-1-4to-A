@@ -5,7 +5,7 @@ using UnityEngine;
 public class DatosDelUsuario : MonoBehaviour
 {
     public string nombreUsuario;
-    [SerializeField] int edadUsuario;
+    public int edadUsuario;
     public float estaturaUsuario;
     public bool donanteOrganos;
     // Start is called before the first frame update
