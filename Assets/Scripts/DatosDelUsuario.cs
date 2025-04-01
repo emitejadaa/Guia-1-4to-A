@@ -18,5 +18,6 @@ public class DatosDelUsuario : MonoBehaviour
     void Update()
     {
         
+
     }
 }
